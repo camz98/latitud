@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140421047361",
+    "project_id": "latitud-83543",
+    "storage_bucket": "latitud-83543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140421047361:android:95ebfa7b5f79b0d64e92c0",
+        "android_client_info": {
+          "package_name": "com.example.latitud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140421047361-isvjnecd67kce9fmif2egji8n8e5v08s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4EATMOK-EwQDsaglWzK3RrDyuQ3h2Vh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140421047361-isvjnecd67kce9fmif2egji8n8e5v08s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
